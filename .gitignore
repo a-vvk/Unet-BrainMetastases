@@ -1,0 +1,8 @@
+Data/
+Models/*.keras
+Models/*.h5
+Models/*.pt
+Models/*.pth
+**/__pycache__/
+*.pyc
+.DS_Store
